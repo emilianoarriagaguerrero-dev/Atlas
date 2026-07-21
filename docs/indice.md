@@ -12,13 +12,15 @@
 - [Product Bible](producto/product-bible.md)
 - [Visión de producto](producto/vision-producto.md)
 - [Alcance](producto/alcance.md)
-- [PRD inicial](producto/prd.md)
+- [PRD oficial](producto/prd.md)
 - [Requisitos iniciales](producto/requisitos.md)
 - [Roadmap](producto/roadmap.md)
 
 ## Arquitectura
 
 - [AIOS Bible](arquitectura/aios-bible.md)
+- [System Architecture](arquitectura/system-architecture.md)
+- [Database Design](arquitectura/database-design.md)
 - [Arquitectura](arquitectura/README.md)
 - [Visión técnica](arquitectura/vision-tecnica.md)
 - [Mapa de componentes](arquitectura/mapa-componentes.md)
@@ -35,6 +37,7 @@
 ## Diseño
 
 - [Design System](diseno/design-system.md)
+- [UX Specification](diseno/ux-specification.md)
 
 ## Seguridad
 

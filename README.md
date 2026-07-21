@@ -15,11 +15,13 @@ La planeación completa del proyecto se encuentra en:
 - [Recursos](docs/recursos.md)
 - [Resumen final de preparación](docs/resumen-final.md)
 - [AIOS Bible](docs/arquitectura/aios-bible.md)
+- [System Architecture](docs/arquitectura/system-architecture.md)
+- [Database Design](docs/arquitectura/database-design.md)
 - [Arquitectura](docs/arquitectura/README.md)
 - [Product Bible](docs/producto/product-bible.md)
 - [Visión de producto](docs/producto/vision-producto.md)
 - [Alcance](docs/producto/alcance.md)
-- [PRD inicial](docs/producto/prd.md)
+- [PRD oficial](docs/producto/prd.md)
 - [Requisitos iniciales](docs/producto/requisitos.md)
 - [Roadmap](docs/producto/roadmap.md)
 - [Flujo de trabajo](docs/operacion/flujo-trabajo.md)
@@ -28,6 +30,7 @@ La planeación completa del proyecto se encuentra en:
 - [Checklist de cierre](docs/operacion/checklist-cierre.md)
 - [Seguridad y privacidad](docs/seguridad/consideraciones.md)
 - [Design System](docs/diseno/design-system.md)
+- [UX Specification](docs/diseno/ux-specification.md)
 
 ## Propósito
 
