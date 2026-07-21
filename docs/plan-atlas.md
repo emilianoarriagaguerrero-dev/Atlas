@@ -86,6 +86,7 @@ Atlas/
 - [x] Agregar plantillas de GitHub para pull requests y tareas.
 - [x] Crear estructura documental fundacional acordada para arquitectura, producto, operación y seguridad.
 - [x] Agregar PRD inicial, roadmap, gobernanza, índice y checklist de cierre.
+- [x] Agregar alineación CTO, requisitos, criterios de implementación y Definition of Done.
 - [ ] Personalizar la descripción con detalles reales del proyecto cuando estén definidos.
 - [ ] Definir si Atlas tendrá aplicación, recursos visuales, investigación u otro tipo de contenido en una etapa posterior.
 

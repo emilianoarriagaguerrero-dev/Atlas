@@ -6,6 +6,7 @@ Atlas es un proyecto pensado para organizar, documentar y convertir una idea en 
 
 La planeación completa del proyecto se encuentra en:
 
+- [Alineación CTO](docs/cto-alineacion.md)
 - [Índice documental](docs/indice.md)
 - [Plan del Proyecto Atlas](docs/plan-atlas.md)
 - [Backlog de tareas](docs/backlog.md)
@@ -17,9 +18,11 @@ La planeación completa del proyecto se encuentra en:
 - [Visión de producto](docs/producto/vision-producto.md)
 - [Alcance](docs/producto/alcance.md)
 - [PRD inicial](docs/producto/prd.md)
+- [Requisitos iniciales](docs/producto/requisitos.md)
 - [Roadmap](docs/producto/roadmap.md)
 - [Flujo de trabajo](docs/operacion/flujo-trabajo.md)
 - [Gobernanza](docs/operacion/gobernanza.md)
+- [Definition of Done](docs/operacion/definition-of-done.md)
 - [Checklist de cierre](docs/operacion/checklist-cierre.md)
 - [Seguridad y privacidad](docs/seguridad/consideraciones.md)
 

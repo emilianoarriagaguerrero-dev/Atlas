@@ -5,6 +5,7 @@ Este espacio queda reservado para reunir enlaces, referencias, ideas y materiale
 ## Enlaces internos
 
 - [README principal](../README.md)
+- [Alineación CTO](cto-alineacion.md)
 - [Índice documental](indice.md)
 - [Plan del proyecto](plan-atlas.md)
 - [Backlog](backlog.md)
@@ -16,12 +17,15 @@ Este espacio queda reservado para reunir enlaces, referencias, ideas y materiale
 - [Visión de producto](producto/vision-producto.md)
 - [Alcance](producto/alcance.md)
 - [PRD inicial](producto/prd.md)
+- [Requisitos iniciales](producto/requisitos.md)
 - [Roadmap](producto/roadmap.md)
 - [Flujo de trabajo](operacion/flujo-trabajo.md)
 - [Gobernanza](operacion/gobernanza.md)
+- [Definition of Done](operacion/definition-of-done.md)
 - [Checklist de cierre](operacion/checklist-cierre.md)
 - [Glosario](glosario.md)
 - [Seguridad y privacidad](seguridad/consideraciones.md)
+- [Criterios de implementación](arquitectura/criterios-implementacion.md)
 
 ## Recursos por agregar
 

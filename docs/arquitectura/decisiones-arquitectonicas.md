@@ -25,3 +25,15 @@ Este documento registra decisiones técnicas o estructurales relacionadas con la
 **Decisión:** separar la documentación en carpetas por área: arquitectura, producto, operación, seguridad y plantillas.
 
 **Consecuencias:** cada área tendrá su propio lugar y el README seguirá siendo una entrada breve.
+
+## ADR-003 — Bloquear implementación hasta cumplir Definition of Ready
+
+**Fecha:** 2026-07-21
+
+**Estado:** aceptada
+
+**Contexto:** iniciar código sin requisitos claros puede generar retrabajo, deuda técnica y decisiones prematuras.
+
+**Decisión:** Atlas no tendrá código hasta completar los criterios de implementación definidos en `criterios-implementacion.md`.
+
+**Consecuencias:** cualquier solicitud de implementación deberá pasar primero por producto, arquitectura, seguridad y backlog.
