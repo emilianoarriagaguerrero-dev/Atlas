@@ -2,7 +2,7 @@
 
 ## 1. Visión general
 
-Atlas será el documento base para ordenar la idea del proyecto, dejar por escrito lo que se quiere construir y mantener un seguimiento claro de los avances desde GitHub.
+Atlas será la especificación oficial base para ordenar la idea del proyecto, dejar por escrito lo que se quiere construir y mantener un seguimiento claro de los avances desde GitHub.
 
 La intención es que este repositorio funcione como el centro principal de información: aquí se documentará el propósito, los objetivos, las fases, las tareas pendientes y las decisiones importantes del proyecto.
 
@@ -64,9 +64,10 @@ Atlas/
 ├── README.md                    # Entrada principal del repositorio
 └── docs/
     ├── arquitectura/           # Documentación arquitectónica fundacional
-    ├── producto/               # Visión, usuarios y alcance
+    ├── producto/               # Product Bible, visión, usuarios y alcance
     ├── operacion/              # Flujo de trabajo y mantenimiento
     ├── seguridad/              # Consideraciones de seguridad y privacidad
+    ├── diseno/                 # Design System documental
     ├── plantillas/             # Formatos reutilizables
     ├── plan-atlas.md            # Planeación detallada del proyecto
     ├── backlog.md               # Lista de pendientes e ideas futuras
@@ -87,6 +88,7 @@ Atlas/
 - [x] Crear estructura documental fundacional acordada para arquitectura, producto, operación y seguridad.
 - [x] Agregar PRD inicial, roadmap, gobernanza, índice y checklist de cierre.
 - [x] Agregar alineación CTO, requisitos, criterios de implementación y Definition of Done.
+- [x] Convertir la documentación en especificación oficial con Product Bible, AIOS Bible y Design System.
 - [ ] Personalizar la descripción con detalles reales del proyecto cuando estén definidos.
 - [ ] Definir si Atlas tendrá aplicación, recursos visuales, investigación u otro tipo de contenido en una etapa posterior.
 

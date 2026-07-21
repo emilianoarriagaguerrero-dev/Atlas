@@ -14,7 +14,9 @@ La planeación completa del proyecto se encuentra en:
 - [Guía de contribución](docs/guia-contribucion.md)
 - [Recursos](docs/recursos.md)
 - [Resumen final de preparación](docs/resumen-final.md)
+- [AIOS Bible](docs/arquitectura/aios-bible.md)
 - [Arquitectura](docs/arquitectura/README.md)
+- [Product Bible](docs/producto/product-bible.md)
 - [Visión de producto](docs/producto/vision-producto.md)
 - [Alcance](docs/producto/alcance.md)
 - [PRD inicial](docs/producto/prd.md)
@@ -25,6 +27,7 @@ La planeación completa del proyecto se encuentra en:
 - [Definition of Done](docs/operacion/definition-of-done.md)
 - [Checklist de cierre](docs/operacion/checklist-cierre.md)
 - [Seguridad y privacidad](docs/seguridad/consideraciones.md)
+- [Design System](docs/diseno/design-system.md)
 
 ## Propósito
 
@@ -41,7 +44,7 @@ Crear una base ordenada para que el proyecto Atlas pueda crecer por etapas, con 
 
 ## Estado actual
 
-Atlas queda preparado como proyecto inicial de documentación y planeación. Los detalles específicos del producto, público objetivo o funcionalidades futuras se agregarán conforme se definan.
+Atlas queda preparado como especificación oficial inicial de documentación y planeación. Los detalles específicos del producto, público objetivo o funcionalidades futuras se agregarán conforme se definan.
 
 
 ## Licencia

@@ -9,6 +9,7 @@
 
 ## Producto
 
+- [Product Bible](producto/product-bible.md)
 - [Visión de producto](producto/vision-producto.md)
 - [Alcance](producto/alcance.md)
 - [PRD inicial](producto/prd.md)
@@ -17,6 +18,7 @@
 
 ## Arquitectura
 
+- [AIOS Bible](arquitectura/aios-bible.md)
 - [Arquitectura](arquitectura/README.md)
 - [Visión técnica](arquitectura/vision-tecnica.md)
 - [Mapa de componentes](arquitectura/mapa-componentes.md)
@@ -29,6 +31,10 @@
 - [Gobernanza](operacion/gobernanza.md)
 - [Definition of Done](operacion/definition-of-done.md)
 - [Checklist de cierre](operacion/checklist-cierre.md)
+
+## Diseño
+
+- [Design System](diseno/design-system.md)
 
 ## Seguridad
 

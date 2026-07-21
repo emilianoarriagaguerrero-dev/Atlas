@@ -1,11 +1,14 @@
 # Resumen final de preparación de Atlas
 
-Atlas queda preparado como un proyecto de documentación y planeación en GitHub.
+Atlas queda preparado como especificación oficial inicial de documentación y planeación en GitHub.
 
 ## Qué quedó terminado
 
 - README principal con enlaces a la documentación.
 - Plan del proyecto con visión, objetivos, alcance, fases y próximos pasos.
+- Product Bible oficial.
+- AIOS Bible conceptual.
+- Design System documental.
 - Backlog organizado por prioridad.
 - Registro de decisiones iniciales.
 - Guía de contribución.
